@@ -1,0 +1,21 @@
+20
+u1 Amna Akram u2 u3 c2 u4 - SE FASTNUCES - Java Python C++ Leadership ProblemSolving Communication 3
+u2 Muhammad Ali u1 c5 u6 - CE ITU -  C++ Python SQL TimeManagement Teamwork 3
+u3 Waheed Khan c1 u7 - CE ITULHR -  Leadership Communication ProblemSolving 4
+u4 Burhan Tahir c1 u8 u9  - DS FASTFSD -  Java SQL Leadership TeamManagement 5
+u5 Hassan Sohail u2 - DS FASTISB -  DataAnalysis TimeManagement 6
+u6 Saad Ali u2 u11 - SE FASTKHI -  C++ Python SQL TimeManagement ProblemSolving 7
+u7 Abdullah Nadeem u3 u11 u12 - SE FASTLHR -  Leadership Communication TimeManagement Java Python SQL ProblemSolving 3
+u8 Nimra Batool u4 u11 - CE ITULHR  - Leadership Communication Java 1
+u9 Abubakar Javed u4 - SE FAST -  DataAnalysis 0
+u10 Saad Sultan u4 u12 - CS UET -  Java Python SQL 5
+u11 Ahsan Ali u6 u7 u8 - CE ITU -  C++ Java SQL Leadership TimeManagement 7
+u12 Kamal Subhani u7 u10  - CE ITU - Leadership Java Python 8
+u13 Saad Ahmed u14 u15 - CS GCU -  Python C++ DataAnalysis 0
+u14 Usman Usman u13 u16 - CE ITU -  Java SQL ProblemSolving 4
+u15 Zaid Tariq u13 u16 - SE FAST  - C++ Python TimeManagement 9
+u16 Abdullah Siddiqui u14 u15 u17 - CE ITU  - Java Python SQL Communication 3
+u17 Saif ullah u16 - CS FAST -  Leadership 9
+u18 Hashir Baig u19 - CS GCU - Java Python TimeManagement TeamManagement 18
+u19 Usama Jawad u18 - DS FAST  - Java Python SQL Communication 8
+u20 Haris Muneer - CE ITU 0
