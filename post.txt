@@ -1,0 +1,134 @@
+10
+post1
+Shared by: u3
+Date: 14/11/2017
+Post text: CP Project Started Yayy....
+Activity: Sharing an article, blog, or news related to the industry.
+Liked by: u1 -
+
+post3
+Shared by: c3
+Date: 14/11/2017
+Post text: Looking for internees
+Activity: Offering job opportunities
+Liked by: u1 c2 -
+
+post2
+Shared by: u3
+Date: 13/11/2017
+Post text: Life will be beautiful after exams
+Activity: Asking for advice or feedback related to work or career
+Liked by: u7 -
+
+
+post4
+Shared by: c5
+Date: 14/11/2017
+Post text: Presenting our new application on MERN Stack
+Activity: Promoting a product or service related to the industry
+Liked by: -
+
+post5
+Shared by: u1
+Date: 14/11/2017
+Post text: Try this at home...
+Activity: Sharing an article, blog, or news related to the industry.
+Liked by: u2, p1, u3, u4 -
+
+post6
+Shared by: p2
+Date: 14/11/2017
+Post text: Oil drilling in Alaska's indigenous communities is on the table again.
+Activity: None
+Liked by: -
+
+post7
+Shared by: p5
+Date: 15/11/2017
+Post text: Be free of possessing things - Rumi
+Activity: Asking for advice or feedback related to work or career
+Liked by: u7, p5 -
+
+
+post9
+Shared by: c2
+Date: 14/10/2017
+Post text: Front-end developers reach us hr@empglabs.com
+Activity: Offering or seeking job opportunities
+Liked by: u2, u4 -
+
+post10
+Shared by: c3
+Date: 10/11/2017
+Post text: Front-end developers reach us hr@laam.com
+Activity: Offering or seeking job opportunities
+Liked by: -post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+
+post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+
+post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+
+post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+
+post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+
+post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+
+post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+
+post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+
+post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+
+post id:post3
+shared by c3
+date 14/11/2017
+post_text Looking for internees
+activity Offering job opportunities
+liked by u1 c2 
+

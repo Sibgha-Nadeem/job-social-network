@@ -1,0 +1,20 @@
+bool user_found = false;
+        for (int i = 0; i < total_users; i++) {
+            if (user_id[i] == current_user_id) {
+                user_found = true;
+                if (countLikes(i, post_id) >= 1) {
+                    cout << "You have already liked this post." << endl;
+                    return;
+                }
+                else {
+                    likes = addLike(i, post_id);
+                    break;
+                }
+            }
+        }
+        if (!user_found) {
+            cout << "User not found." << endl;
+            return;
+        }
+        cout << "Post " << post_id << " now has " << likes << " likes." << endl;
+    }
